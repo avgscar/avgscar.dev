@@ -5,4 +5,7 @@
     position: absolute;
     top: 0px;
     right: 0px;
+    size: 24px;
+    border-radius: 8px;
+    padding: 2px;
 }
